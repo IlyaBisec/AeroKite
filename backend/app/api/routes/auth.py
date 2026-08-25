@@ -8,6 +8,7 @@ from sqlalchemy.sql.functions import current_user
 
 from backend.app.core.security import create_access_token
 
+
 router = APIRouter()
 
 @router.post("/login")
