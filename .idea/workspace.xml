@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb4f3936-d1a7-401e-ada5-a621a69b11e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AeroKite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AeroKite.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/app/api/routes/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/api/routes/auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/api/routes/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/api/routes/files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/db/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/db/session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/models/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/models/file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/models/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/services/storage_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/services/storage_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/storage/local.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/storage/s3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +61,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "C:/Users/Alex/AppData/Roaming/JetBrains/PyCharm2025.2/node/versions/24.18.0/node",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "ts.external.directory.path": "D:\\ilya\\apps\\ideas\\PyCharm 2025.2.6.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -81,7 +89,8 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/.venv/Scripts/python.exe" />
+      <option name="SDK_NAME" value="Python 3.13 (AeroKite)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -110,6 +119,7 @@
       <workItem from="1786607294735" duration="3623000" />
       <workItem from="1786690688959" duration="2674000" />
       <workItem from="1787637110810" duration="17922000" />
+      <workItem from="1787735448487" duration="7031000" />
     </task>
     <servers />
   </component>

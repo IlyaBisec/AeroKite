@@ -7,7 +7,7 @@ import uuid
 import boto3
 from rsa import key
 
-from backend.app.core.config import settings
+from app.core.config import settings
 
 s3 = boto3.resource("s3",
                     endpoint_url=settings.AWS_S3_ENDPOINT,

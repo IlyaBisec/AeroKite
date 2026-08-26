@@ -3,7 +3,7 @@
 # Date: 25/08/2026 15:09
 
 from fastapi import APIRouter, UploadFile, File
-from backend.app.services.storage_service import upload_file, generate_url
+from app.services.storage_service import upload_file, generate_url
 import uuid
 
 router = APIRouter()

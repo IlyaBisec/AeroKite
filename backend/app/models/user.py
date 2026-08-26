@@ -3,7 +3,7 @@
 # Date: 25/08/2026 15:06
 
 from sqlalchemy import Column, Integer, String
-from backend.app.db.base import Base
+from app.db.base import Base
 import uuid
 
 class User(Base):
